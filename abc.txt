@@ -1,0 +1,14 @@
+bla
+
+Li-Ling is good !!
+
+<<<<<<< HEAD
+
+Andreas is good too!!
+
+I don`t get this vi crap!!
+=======
+Andreas is good too!!
+
+u wot m8
+>>>>>>> andreas
